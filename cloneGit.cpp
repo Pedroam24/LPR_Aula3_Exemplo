@@ -11,8 +11,9 @@ int main() {
     cout << "\033[1;32m*                                                 *\033[0m\n";
     cout << "\033[1;32m*   \033[1;36mVocê clonou um repositório público do Git     \033[1;32m*\033[0m\n";
     cout << "\033[1;32m*   \033[1;36mpara o seu repositório local!                 \033[1;32m*\033[0m\n";
+    cout << "\033[1;32m*   \033[1;36mClonado por Pedro Almeida ;)                  \033[1;32m*\033[0m\n";
     cout << "\033[1;32m*                                                 *\033[0m\n";
     cout << "\033[1;34m***************************************************\033[0m\n";
-
+    
     return 0;
 }
